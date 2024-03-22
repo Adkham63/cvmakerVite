@@ -2,34 +2,26 @@
 
 ### Install Dependencies
 
-```sh
-npm create vite@latest app-name -- --template react
+```bash
 npm install
-npm run dev
-```
-
-### Run JSON Server
-#### The server will run on http://localhost:8000
-
-```sh
-npm run server
 ```
 
 ### Run Vite Frontend
-#### React will run on http://localhost:5173/
 
-```sh
+React will run on http://localhost:5173
+
+```bash
 npm run dev
 ```
 
 ### Build for Production
 
-```sh
+```bash
 npm run build
 ```
 
 ### Preview Production Build
 
-```sh
+```bash
 npm run preview
 ```
